@@ -1,11 +1,8 @@
 # k0pak4
-<div style="text-align:center">
+Penetration Tester, Security Researcher, Software Engineer, Bionicle Enthusiast.  
+https://www.mathur.sh  
+![k0pak4 Logo](https://www.mathur.sh/static/img/favicon_small.png)
 
-Penetration Tester, Security Researcher, Software Engineer, Bionicle Enthusiast.<br>
-https://www.mathur.sh<br>
-he/him<br>
-<img src="https://www.mathur.sh/static/img/favicon_small.png">
-</div>
 
 
 ## Metasploit Modules & Major Contributions
