@@ -11,6 +11,8 @@ https://www.mathur.sh
 - [Add CVE-2002-0422 Coverage to IIS Internal IP Module](https://github.com/rapid7/metasploit-framework/pull/15782)
 
 ## CVEs
+- CVE-2022-26777: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
+- CVE-2022-26653: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
 - CVE-2022-25373: [ManageEngine Support Center Plus Stored XSS](https://raxis.com/blog/cve-2022-25373)
 - CVE-2022-25245: [ManageEngine Asset Explorer Information Leakage](https://raxis.com/blog/cve-2022-25245)
 - CVE-2022-24681: [ManageEngine AD Self Service Plus Stored XSS](https://raxis.com/blog/cve-2022-24681)
