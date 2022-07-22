@@ -1,5 +1,5 @@
 # k0pak4
-Penetration Tester, Security Researcher, Software Engineer, Bionicle Enthusiast.  
+Security Researcher, Penetration Tester, Software Engineer, Bionicle Enthusiast.  
 https://www.mathur.sh  
 ![k0pak4 Logo](https://www.mathur.sh/static/img/favicon_small.png)
 
