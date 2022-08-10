@@ -25,6 +25,6 @@ https://www.mathur.sh
 
 ## Penetration Testing Reporting Tools
 - [Mass SSL Scan](https://github.com/k0pak4/mass-sslscan)
-- [Security Header] (https://github.com/k0pak4/security-header-scan)
+- [Security Header Scan](https://github.com/k0pak4/security-header-scan)
 - [Server Header Scan](https://github.com/k0pak4/server-header-scan)
 - [Table Maker](https://github.com/k0pak4/table-maker)
