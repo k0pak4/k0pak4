@@ -5,12 +5,15 @@ https://www.mathur.sh
 
 
 
-## Metasploit Modules & Major Contributions
+## Metasploit Modules & Contributions
 - [Azure AD Login Scanner Module](https://raxis.com/blog/metasploit-azure-ad-login)
 - [Microsoft RD Web Access Timing Attack Module](https://raxis.com/blog/rd-web-access-vulnerability)
 - [Add CVE-2002-0422 Coverage to IIS Internal IP Module](https://github.com/rapid7/metasploit-framework/pull/15782)
 
+See all my contributions to Metasploit [here.](https://github.com/rapid7/metasploit-framework/pulls?q=is%3Amerged+is%3Apr+author%3Ak0pak4+)
+
 ## CVEs
+- CVE-2022-35739: [PRTG Network Monitor CSS Injection](https://raxis.com/blog/cve-2022-35739)
 - CVE-2022-26777: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
 - CVE-2022-26653: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
 - CVE-2022-25373: [ManageEngine Support Center Plus Stored XSS](https://raxis.com/blog/cve-2022-25373)
