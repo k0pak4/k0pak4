@@ -6,6 +6,7 @@ https://www.mathur.sh
 
 
 ## Metasploit Modules & Contributions
+- [NagiosXI 5.5.6-5.7.5 Command Injection Exploit Module for CVE-2021-25296, CVE-2021-25297, CVE-2021-25298](https://github.com/rapid7/metasploit-framework/pull/17494)
 - [Azure AD Login Scanner Module](https://raxis.com/blog/metasploit-azure-ad-login)
 - [Microsoft RD Web Access Timing Attack Module](https://raxis.com/blog/rd-web-access-vulnerability)
 - [Add CVE-2002-0422 Coverage to IIS Internal IP Module](https://github.com/rapid7/metasploit-framework/pull/15782)
