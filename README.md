@@ -5,6 +5,7 @@ https://www.mathur.sh
 
 
 ## CVEs
+- CVE-2023-30534: TBA
 - CVE-2022-35739: [PRTG Network Monitor CSS Injection](https://raxis.com/blog/cve-2022-35739)
 - CVE-2022-26777: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
 - CVE-2022-26653: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
