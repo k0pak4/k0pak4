@@ -1,7 +1,7 @@
 # k0pak4
 Security Researcher, Penetration Tester, Software Engineer, Bionicle Enthusiast.  
 https://www.mathur.sh  
-![k0pak4 Logo](https://www.mathur.sh/static/img/favicon_small.png)
+![k0pak4 Logo](https://www.mathur.sh/static/img/k0pak4-logo-transparent.png)
 
 
 ## CVEs
