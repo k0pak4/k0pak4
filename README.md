@@ -1,11 +1,10 @@
 # k0pak4
 Security Researcher, Penetration Tester, Software Engineer, Bionicle Enthusiast.  
-https://www.mathur.sh  
-![k0pak4 Logo](https://www.mathur.sh/static/img/favicon/apple-touch-icon-180x180.png)
+https://www.mathur.sh
 
 
 ## CVEs
-- CVE-2023-30534: TBA
+- CVE-2023-30534: [Insecure Deserialization of Filter Data in Cacti](https://github.com/Cacti/cacti/security/advisories/GHSA-77rf-774j-6h3p)
 - CVE-2022-35739: [PRTG Network Monitor CSS Injection](https://raxis.com/blog/cve-2022-35739)
 - CVE-2022-26777: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
 - CVE-2022-26653: [ManageEngine Remote Access Plus Guest User Insecure Direct Object References](https://raxis.com/blog/cve-2022-26653-and-cve-2022-26777)
