@@ -33,10 +33,3 @@ See all my contributions to Metasploit [here.](https://github.com/rapid7/metaspl
 - [Nuclei templates for CVE-2021-25296, CVE-2021-25297, and CVE-2021-25298](https://github.com/projectdiscovery/nuclei-templates/pull/6615)
 
 See a full list of my Nuclei contributions on GitHub [here.](https://github.com/projectdiscovery/nuclei-templates/pulls?q=is%3Amerged+is%3Apr+author%3Ak0pak4+)
-
-
-## Penetration Testing Reporting Tools
-- [Mass SSL Scan](https://github.com/k0pak4/mass-sslscan)
-- [Security Header Scan](https://github.com/k0pak4/security-header-scan)
-- [Server Header Scan](https://github.com/k0pak4/server-header-scan)
-- [Table Maker](https://github.com/k0pak4/table-maker)
