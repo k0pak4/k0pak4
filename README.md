@@ -28,6 +28,7 @@ See all my contributions to Metasploit [here.](https://github.com/rapid7/metaspl
 
 
 ## Nuclei Templates
+- [Nuclei template for CVE-2026-75650 - StyleSmuggler](https://github.com/projectdiscovery/nuclei-templates/pull/17655)
 - [Nuclei template for CVE-2023-30534](https://github.com/projectdiscovery/nuclei-templates/pull/8205)
 - [Nuclei templates for CVE-2021-25296, CVE-2021-25297, and CVE-2021-25298](https://github.com/projectdiscovery/nuclei-templates/pull/6615)
 
